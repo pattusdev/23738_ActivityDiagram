@@ -7,6 +7,7 @@
 ▰ Once arrived at the polling station, elector gives the own electoral
 card to station president who checks if the polling station number is
 right.
+
 ▰ Then he checks the identity document and if ok he gives the
 ballot paper to the elector.
 
