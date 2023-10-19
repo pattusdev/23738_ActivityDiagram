@@ -2,7 +2,7 @@
 
 # SENG_415_Software-Modeling-and-Design
 
-### Activity Diagrams Voting System
+### Activity Diagram: Voting System
 
 ▰ Once arrived at the polling station, elector gives the own electoral
 card to station president who checks if the polling station number is
