@@ -15,5 +15,5 @@ print on the elector certificate. Once elector has voted, he/she inserts
 the ballot paper in the urn, giving back the pencil and taking back the
 own ID document.
 
-![diagram](Images/me.jpg)
+![diagram](images/me.jpg)
 
